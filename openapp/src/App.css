@@ -1,0 +1,33 @@
+#root {
+
+  font-family: 'Montserrat-Bold', Helvetica;
+  /* text-align: center; */
+}
+
+#baseText {
+  color: #FFF;
+
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+#stroking {
+  display: flex;
+  vertical-align: inherit;
+  width: 5.5rem;
+
+
+}
+
+#base2 {
+  color: #FAFAFB;
+
+  font-family: 'Montserrat', Helvetica;
+  font-size: 20px;
+  line-height: 136%;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
